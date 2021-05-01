@@ -1,0 +1,15 @@
+1-¿Que hubiese sucedido si, envez de generar un archivo por cada operacion matematica,hubiesemos programado todo en un mismo archivo?
+    -Pasarian las siguientes situaciones;
+        -El codigo seria dificil de navegar
+        -El codigo seria dificil de mantener a largo plazo
+        -No hubiera aprobechado la modularizacion que te brinda node.js
+        -No hubiera complido con las condiciones que el trabajo pedia
+
+2-¿Por que el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+    -La modularizacion nos permite:
+        -Tener un codigo mas facil de leer
+        -Tener un codigo mucho mas facil de mantener
+        -Que se pueda aliminar o modificar una parte del codigo sin afectar al resto del codigo
+
+3-¿Sera esta metodologia de trabajo una constante de aqui en adelante?
+    -Yo personalmente la voy a usar en todos los proyectos que haga y de ese modo hacer un trabajo mas eficiente y profesional.
